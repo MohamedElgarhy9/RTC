@@ -1,6 +1,7 @@
 # RTC
 ## About the project:
-    Real-Time Clock, it is an implementation of a real-time clock using Atmega32A mc, LCD, Keypad, and 7 segments.
+    Real-Time Clock, it is an implementation of a real-time clock using Atmega32A mc, LCD, Keypad,
+    and 7 segments.
 ### Major components:
   ### External:
     - ATmega32A microcontroller 
