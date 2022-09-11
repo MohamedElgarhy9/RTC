@@ -11,6 +11,8 @@
   ### Internal:
     - DIO
     - Timer1
+## Youtube preview:
+   https://youtu.be/18_U3STi6lk
   ## Image:
 ![image](https://user-images.githubusercontent.com/78216592/164118699-a6b1a30d-deeb-42d1-b568-b14a9cfef4f4.png)
 
